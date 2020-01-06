@@ -1,0 +1,60 @@
+﻿deal with increment 1000
+cut -8475
+
+1000 * x = -6455 (mod 10007)
+
+
+
+deckSize: 119315717514047
+
+deal with increment -32839627937553
+cut 37098753080154
+
+deal with increment i
+cut c
+deal with increment i
+cut c
+deal with increment i
+cut c
+
+deal with increment i
+deal with increment i
+cut i * c
+cut c
+deal with increment i
+cut c
+
+
+deal with increment i*i
+cut i * c + c
+deal with increment i
+cut c
+
+deal with increment i * i
+deal with increment i
+cut i * i * c + i * c
+cut c
+
+deal with increment i * i * i
+cut i * i * c + i * c + c = (i * i + i + 1) * c
+
+
+
+deal with increment i * i
+cut  c * (i + 1)
+
+-46915978641968
+
+
+
+
+38075364056286
+34509942563742
+
+
+
+‭34509942565762‬
+
+
+deal with increment 70388637958587
+cut 
